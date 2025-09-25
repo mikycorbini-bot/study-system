@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  background: #f8fafc;
+}
+
+.grid { display: grid; }
+.flex { display: flex; }
+.items-center { align-items: center; }
+.justify-center { justify-content: center; }
+.border-black { border-color: black; }
+.bg-gray-600 { background: #4b5563; }
+.bg-gray-200 { background: #e5e7eb; }
+.bg-blue-600 { background: #2563eb; }
+.bg-red-600 { background: #dc2626; }
+.ring-yellow-400 { outline: 4px solid #facc15; }
+.cursor-pointer { cursor: pointer; }
+.rounded-full { border-radius: 9999px; }
+.w-10 { width: 2.5rem; }
+.h-10 { height: 2.5rem; }
+.w-12 { width: 3rem; }
+.h-12 { height: 3rem; }
+.text-white { color: white; }
+.text-sm { font-size: 0.875rem; }
+.font-bold { font-weight: bold; }
+.text-2xl { font-size: 1.5rem; }
+.mb-4 { margin-bottom: 1rem; }
+.mt-4 { margin-top: 1rem; }
+.max-w-md { max-width: 28rem; }
+.p-4 { padding: 1rem; }
+.border-4 { border-width: 4px; }
